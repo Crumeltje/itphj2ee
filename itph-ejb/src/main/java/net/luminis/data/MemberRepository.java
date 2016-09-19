@@ -25,7 +25,7 @@ import javax.persistence.criteria.Root;
 import java.util.List;
 
 import net.luminis.model.Member;
-
+//hallo
 @ApplicationScoped
 public class MemberRepository {
 
